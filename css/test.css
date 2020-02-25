@@ -1,0 +1,26 @@
+body {
+	background: yellow
+}
+
+.small{
+font-size: 25px;
+}
+
+.big {
+
+font-size: 120px;
+}
+
+#fucker
+{
+font-size: 120px;
+color: Green
+}
+
+span {
+font-style: italic;
+}
+
+h2 span {
+text-decoration: line-through;
+}
